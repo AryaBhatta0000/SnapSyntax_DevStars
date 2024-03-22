@@ -1,0 +1,222 @@
+.navbar{
+    display:flex
+    
+}
+.buttons{
+    text-decoration :none;
+    list-style-type:none;
+    display:flex;
+    
+}
+.buttons2{
+    text-decoration :none;
+    list-style-type:none;
+    display:flex;
+    
+}
+.buttons>li{
+    padding:5px;
+    MARGIN-LEFT:10px;
+    font-family: "Sulphur Point", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+.buttons2{
+    margin-left:1000px;
+    text-decoration :none;
+    list-style-type:none;
+    display:flex;
+} 
+.buttons2>li{
+    padding:5px;
+    MARGIN-LEFT:10px;
+    font-family: "Sulphur Point", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+.buttons>li:hover{
+        text-decoration:underline;
+        cursor:pointer;
+}
+.buttons2>li:hover{
+    text-decoration:underline;
+    cursor:pointer;
+}
+.role{
+    margin-top:50px;  
+    font-family: "Sulphur Point", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size:150px;
+    line-height: 150px;
+}
+.current_job{
+     
+    font-family: "Sulphur Point", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size:20px;
+    margin-left:600px;
+}
+.current_job_date{
+     
+    font-family: "Sulphur Point", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size:20px;
+    margin-left:600px;
+}
+.image_container{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top:50px;
+}
+.image{
+    border-radius:50px;
+}
+.faded_text{
+  
+    font-family: "Sulphur Point", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size:40px;
+    
+    margin-top:50px;
+    opacity: 0.2;
+}
+.text2{
+    font-family: "Sulphur Point", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size:40px;
+    
+    margin-top:50px;
+    
+}
+.experiences{
+    margin-top:50px;
+    font-family: "Sulphur Point", sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size:75px;
+    line-height: 75px;
+    margin-left:35px;
+}
+.list{
+    margin-top:50px;
+    margin-left:200px;
+    font-family: "Sulphur Point", sans-serif;
+    font-weight:bolder;
+    font-style: normal;
+    font-size:45px;
+
+}
+.description{
+    margin-top:5px;
+    margin-left:100px;
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+    font-size:30px;
+}
+.year{
+    margin-top:5px;
+    margin-left:750px;
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    opacity:0.75;
+    font-style: normal;
+    font-size:30px;
+}
+.jd{
+    margin-left:100px;
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:100;
+    font-style: normal;
+    font-size:20px;
+}
+hr{
+    margin-top:25px;
+    opacity:0.7;
+}
+.footer{
+    background-color: rgb(50, 43, 43);
+}
+.footer_container{
+    display:flex;
+}
+.intro{
+    
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:100;
+    margin-left:50px;
+    font-style: normal;
+    font-size:20px;
+    color:white;
+}
+.introproj{
+    
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:100;
+    
+    font-style: normal;
+    font-size:20px;
+    color:white;
+}
+.introsoc{
+    
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:100;
+    margin-left:30px;
+    font-style: normal;
+    font-size:20px;
+    color:white;
+}
+.avatar{
+    width:250px;
+    margin-top:10px;
+    margin-left:50px;
+    border-radius:50%;
+}
+.search{
+    background-color: black;
+    width:250px;
+}
+.intro_container2{
+    margin-left:1000px;
+}
+.projectsocial{
+    display:flex;
+}
+.project{
+    list-style-type: none;
+    color:white;
+    font-family: "Sulphur Point", sans-serif;
+   
+    font-style: normal;
+    font-size:20px;
+}
+.socials{
+    display:flex;
+}
+.icons1{
+    display:flex;
+    
+    
+}
+.icon_list{
+    margin-left:0px;
+}
+ul{
+    list-style-type: none;
+}
+.icon{
+    width:20px;
+    padding:10px;
+}
